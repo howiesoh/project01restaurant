@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/project01restaurant/static/css/main.6f3feb97.css",
+    "main.js": "/project01restaurant/static/js/main.f3fae3ee.js",
+    "static/media/meal.mp4": "/project01restaurant/static/media/meal.06be72dcf19d0071660a.mp4",
+    "static/media/bg.png": "/project01restaurant/static/media/bg.f0599b60c09908074069.png",
+    "static/media/bg2.png": "/project01restaurant/static/media/bg2.7716a0df0345293ac17e.png",
+    "static/media/chef.png": "/project01restaurant/static/media/chef.2708573878865ed48167.png",
+    "static/media/findus.png": "/project01restaurant/static/media/findus.76322add18a19b0594ba.png",
+    "static/media/welcome.png": "/project01restaurant/static/media/welcome.92e121f2abbb7a7077b1.png",
+    "static/media/menu.png": "/project01restaurant/static/media/menu.29028e12cda6cb4cba52.png",
+    "static/media/laurels.png": "/project01restaurant/static/media/laurels.a84c021d1831139d8f42.png",
+    "static/media/gallery04.png": "/project01restaurant/static/media/gallery04.7c78738db63ec113e5c3.png",
+    "static/media/gallery03.png": "/project01restaurant/static/media/gallery03.b818fd213d1f4d4b8421.png",
+    "static/media/gallery02.png": "/project01restaurant/static/media/gallery02.1dd320b755b99ba4a74e.png",
+    "static/media/gallery01.png": "/project01restaurant/static/media/gallery01.d9204cfc1e68f156a806.png",
+    "static/media/overlaybg.png": "/project01restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/knife.png": "/project01restaurant/static/media/knife.05c361a7f601ad71d1bc.png",
+    "static/media/G.png": "/project01restaurant/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/project01restaurant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/sign.png": "/project01restaurant/static/media/sign.25c3109ead8ab850fd46.png",
+    "static/media/spoon.svg": "/project01restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "index.html": "/project01restaurant/index.html",
+    "main.6f3feb97.css.map": "/project01restaurant/static/css/main.6f3feb97.css.map",
+    "main.f3fae3ee.js.map": "/project01restaurant/static/js/main.f3fae3ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f3feb97.css",
+    "static/js/main.f3fae3ee.js"
+  ]
+}
